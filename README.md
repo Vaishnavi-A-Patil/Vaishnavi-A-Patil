@@ -33,8 +33,3 @@ src="https://img.shields.io/github/followers/Vaishnavi-A-Patil?logo=github&style
 <a href="http://www.github.com/Vaishnavi-A-Patil"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaishnavi-A-Patil&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Vaishnavi-A-Patil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-A-Patil&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-a-patil&show_icons=true&locale=en" alt="vaishnavi-a-patil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-a-patil&" alt="vaishnavi-a-patil" /></p>
